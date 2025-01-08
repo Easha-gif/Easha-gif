@@ -55,6 +55,3 @@
 
 ###
 
-<h2 align="left">States</h2>
-
-###
