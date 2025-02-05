@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">I am Frontend and Backend Developer</h3>
+<h3 align="center">I am Frontend Developer</h3>
 
 ###
 
@@ -16,11 +16,11 @@
 
 ###
 
-<h6 align="left">My name is **Eheteshamul Easha** , I live in Rajshahi, Bangladesh . I am a passionate **Frontend and Backend Developer** with expertise in building dynamic, scalable, and user-friendly web applications . I enjoy creating seamless user experiences and robust backend systems that power them.</h6>
+<h5 align="left">My name is **Eheteshamul Easha** , I live in Rajshahi, Bangladesh . I am a passionate **Frontend and Backend Developer** with expertise in building dynamic, scalable, and user-friendly web applications . I enjoy creating seamless user experiences and robust backend systems that power them.</h5>
 
 ###
 
-<h6 align="left">✨ What I love : <br><br>- Building cool projects that solve real-world problems.  <br>- Learning new technologies and improving my skills every day.  <br><br>📚 I'm currently learning Backend.<br> <br>🎯 Goals : Full-Stack Developer .<br><br>🎲 Fun fact : I love to sleep.</h6>
+<h5 align="left">✨ What I love : <br><br>- Building cool projects that solve real-world problems.  <br>- Learning new technologies and improving my skills every day.  <br><br>📚 I'm currently learning Backend.<br> <br>🎯 Goals : Full-Stack Developer .<br><br>🎲 Fun fact : I love to sleep.</h5>
 
 ###
 
