@@ -67,7 +67,7 @@
   <a href="https://www.facebook.com/profile.php?id=100010666809633" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   <a href="https://www.linkedin.com/in/easha-khan-849809345/" target="_blank">
-    <img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" width="52" height="60" alt="linkedin logo"  />
 </div>
 
 ###
