@@ -41,15 +41,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
+
 ###
 
 <h2 align="left">Stats</h2>
 
 ###
 
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=DenverCoder1" alt="GitHub Streak">
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats - Dark Mode">
 </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only" alt="Anurag's GitHub stats - Light Mode">
+</a>
+
 
 ###
 
