@@ -41,6 +41,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
+###
+
+<h2 align="left">Stats</h2>
+
+###
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs" alt="Harlok's WakaTime stats">
+</a>
+
 
 ###
 
