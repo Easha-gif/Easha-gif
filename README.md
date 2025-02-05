@@ -47,10 +47,9 @@
 
 ###
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs" alt="Harlok's WakaTime stats">
+<a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=DenverCoder1" alt="GitHub Streak">
 </a>
-
 
 ###
 
